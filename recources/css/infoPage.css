@@ -1,0 +1,50 @@
+#creators {
+    font-size: 2rem;
+    margin-left: 5rem;
+}
+
+#span-creators {
+    margin-right: 40rem;
+    font-size: 2rem;
+}
+
+#infoPage-contaniner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 3px solid #4b4545;
+    border-radius: 5px;
+    margin-bottom: 5rem;
+    padding: 20px;
+    max-width: 1000px;
+    height: 46vh;
+    background-color: rgb(211, 206, 206);
+    margin-top: 3.3rem;
+}
+
+#information-p {
+    font-size: 1.5rem;
+}
+
+#first-link img {
+    margin-left: 6rem;
+    width: 5.6rem;
+}
+
+#second-link img {
+    margin-left: 3rem;
+    width: 27rem;
+}
+
+#only-hr {
+    width: 58rem;
+    border: 2px solid rgb(85, 84, 84);
+    height: 5px;
+    border-radius: 10px;
+    background: linear-gradient(to left, rgb(63, 154, 228), rgb(238, 67, 67));
+}
+
+.more-info {
+    font-size: 2.1rem;
+}
